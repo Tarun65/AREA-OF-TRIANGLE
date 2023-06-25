@@ -10,7 +10,7 @@ int mian()
     area=sqrt(p*(p-a)*(p-b)*(p-c));
     printf("the area of triangle:%f",area);
     return 0;
-	My Name is tarun
+	My Name
 	I am running second code
 	
 }
