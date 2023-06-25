@@ -11,5 +11,6 @@ int mian()
     printf("the area of triangle:%f",area);
     return 0;
 	My Name is tarun
+	I am running second code
 	
 }
